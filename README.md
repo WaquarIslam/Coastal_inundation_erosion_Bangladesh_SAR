@@ -6,7 +6,7 @@
 
 ## 🔍 Why This Matters
 
-Coastlines are among the world's most dynamic and risk-exposed environments. In India alone, over **170 million people live within 50 km of the coast**, and studies estimate that **40% of India's coastline is experiencing active erosion**. Under climate change, the compounding of sea-level rise, intensifying cyclones, and increased storm surge frequency is accelerating both inundation risk and shoreline retreat — threatening settlements, fisheries, agriculture, mangrove ecosystems, and critical coastal infrastructure simultaneously.
+Coastlines are among the world's most dynamic and risk-exposed environments. In India alone, over **170 million people live within 50 km of the coast**, and studies estimate that **40% of India's coastline is experiencing active erosion**. Under climate change, the compounding of sea-level rise, intensifying cyclones, and increased storm surge frequency is accelerating both inundation risk and shoreline retreat — threatening settlements, fisheries, agriculture, mangrove ecosystems, and critical coastal infrastructure simultaneously. This particular project is a study of Coastal region in Bangladesh which is also severely affected by erosion.
 
 Effective coastal adaptation — whether through nature-based solutions, managed retreat, or hard engineering — requires accurate, spatially explicit baseline data on **where the coast is changing, how fast, and which assets are exposed**. Traditional survey methods are expensive, slow, and geographically limited. **Satellite remote sensing offers a cost-effective, repeatable, and scalable alternative** capable of detecting shoreline change at centimetre to metre precision over multi-decadal timescales.
 
